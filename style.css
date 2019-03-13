@@ -12,7 +12,7 @@
 	z-index: 99;
 	margin-top: 0px;
 }
-menu.menu_table_col
+menu .menu_table_col
 {
 	width: 10%;
 	color: gold;
@@ -88,6 +88,16 @@ iframe{
 article{
 	margin-left: 5%;
 	margin-right: 5%;
+}
+
+#like{ 
+	margin: 0 auto;
+	display:block;
+}
+
+#qrcoder{
+	margin: 0 auto;
+	display:block;
 }
 
 
