@@ -1,0 +1,107 @@
+#menu
+{
+	position: fixed;
+	width: 100%;
+	height: 35px;
+	background: firebrick;
+	text-align: center;
+	text-transform: capitalize;
+	font-size: 16pt;
+	text-decoration-color: gold;
+	color: gold;
+	z-index: 99;
+	margin-top: 0px;
+}
+menu .menu_table_col
+{
+	width: 10%;
+	color: gold;
+	text-align: center;
+	text-decoration-color: gold;
+}
+body
+{
+	background-color: gold;
+}
+h1
+{
+	color: firebrick;
+	text-transform: capitalize; 
+	text-align: center;
+	font-size: 24pt;
+}
+p
+{
+	text-align: center;
+	font-size: 16pt;
+}
+#about_me_photo{
+	left: 15%;
+	width: 35%;
+	height: 450px;
+	text-align: center;
+	font-size: 14pt;
+}
+
+#about_me_text{
+	position: absolute;
+	top: 120px;
+	left: 35%;
+	height: 450px;
+	width: 60%;
+	text-align: left;
+	font-size: 16pt;
+}
+#photo_col_1{
+	position: absolute;
+	top: 770px;
+	left: 5%;
+	width: 30%;
+	text-align: center;
+	font-size: 14pt;
+}
+#photo_col_2{
+	position: absolute;
+	top: 770px;
+	left: 35%;
+	width: 30%;
+	text-align: center;
+	font-size: 14pt;
+}
+#photo_col_3{
+	position: absolute;
+	top: 770px;
+	left: 65%;
+	width: 30%;
+	text-align: center;
+	font-size: 14pt;
+}
+iframe{
+	width: 800px;
+	height: 500px;
+	margin: 0 auto;
+	display:block; 
+}
+#QA_text{
+	font-size: 16pt;
+}
+article{
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+#like{ 
+	margin: 0 auto;
+	display:block;
+}
+
+#qrcoder{
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+#contact{
+	font-size: 16pt;
+}
+
+
